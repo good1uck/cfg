@@ -1,0 +1,2 @@
+# cfg
+CSGO CFG BACKUP
