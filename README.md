@@ -1,3 +1,4 @@
+```
 # cfg
 CSGO CFG BACKUP
 
@@ -714,4 +715,4 @@ bind "KP_PGDN" "give weapon_awp"
 
 bind "KP_MINUS" "toggle developer 0 1"
 
-
+```
