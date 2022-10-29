@@ -1,11 +1,11 @@
-```
+
 # cfg
 CSGO CFG BACKUP
 
 C:\Program Files (x86)\Steam\userdata\351060679\730\local\cfg
 
 [VAC] The server detected a cheater.
-
+```
 config.cfg
 
 cfgver "1"
@@ -617,7 +617,9 @@ xbox_throttlebias "100"
 xbox_throttlespoof "200"
 zoom_sensitivity_ratio_joystick "1.0"
 zoom_sensitivity_ratio_mouse "1.0"
+```
 
+```
 video.txt
 "VideoConfig"
 {
@@ -644,6 +646,10 @@ video.txt
 	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"0"
 }
+```
+
+
+```
 
 train.cfg
 
